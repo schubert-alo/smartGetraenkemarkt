@@ -1,0 +1,9 @@
+productName,quantity,importSource,importDate
+Cola,100,CSV,2025-02-09T10:30:00
+Orangenlimonade,150,CSV,2025-02-09T10:30:00
+Zitronenlimonade,200,CSV,2025-02-09T10:30:00
+Wasser,300,CSV,2025-02-09T10:30:00
+Apfelsaft,50,CSV,2025-02-09T10:30:00
+Orangensaft,120,CSV,2025-02-09T10:30:00
+Limonade,80,CSV,2025-02-09T10:30:00
+Eistee,60,CSV,2025-02-09T10:30:00
