@@ -1,7 +1,5 @@
 package org.salesAPI.sales;
 
-import org.salesAPI.sales.Sale;
-import org.salesAPI.sales.SaleService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

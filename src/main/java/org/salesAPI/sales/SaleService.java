@@ -1,7 +1,5 @@
 package org.salesAPI.sales;
 
-import org.salesAPI.sales.Sale;
-import org.salesAPI.sales.SaleRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
