@@ -60,14 +60,13 @@
             <version>42.7.2</version>
         </dependency>
 
-
-
         <!-- Lombok (vereinfachte Code-Schreibweise) -->
 <!--        <dependency>-->
 <!--            <groupId>org.projectlombok</groupId>-->
 <!--            <artifactId>lombok</artifactId>-->
 <!--            <scope>provided</scope>-->
 <!--        </dependency>-->
+
     </dependencies>
     <build>
         <plugins>
