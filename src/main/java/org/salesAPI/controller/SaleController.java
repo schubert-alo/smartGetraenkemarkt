@@ -1,15 +1,17 @@
-package org.salesAPI.sales;
+package org.salesAPI.controller;
 
+import org.salesAPI.model.Sale;
+import org.salesAPI.service.SaleService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
 @RequestMapping("/sales")
-public class SalesController {
+public class SaleController {
     private final SaleService saleService;
 
-    public SalesController(SaleService saleService) {
+    public SaleController(SaleService saleService) {
         this.saleService = saleService;
     }
 
